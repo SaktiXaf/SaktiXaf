@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Coffee Shop Website Project**
+- 🔭 Currently working on: **Velora Project**
 - 🌱 Learning: `Laravel`, `React Native`, `Kotlin`, and now diving into **Golang!**
 - 💬 Ask me about: `TypeScript`, `React`, `PHP`, `Mobile Dev`, `Go`
 - 💡 Goal: Become a **Fullstack + Mobile Dev + Backend Specialist**
