@@ -39,15 +39,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SaktiXaf&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaktiXaf&theme=tokyonight" />
+  <a href="https://github.com/SaktiXaf">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaktiXaf&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
+  </a>
+  <a href="https://github.com/SaktiXaf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaktiXaf&theme=radical&hide_border=true" height="180px" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaktiXaf&theme=tokyo-night&area=true" />
+  <a href="https://github.com/SaktiXaf">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaktiXaf&theme=react-dark&bg_color=0D1117&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SaktiXaf">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaktiXaf&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  </a>
 </p>
 
 ---
