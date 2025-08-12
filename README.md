@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Velora Project**
+- 🔭 Currently working on: **Coffee Shop Website Project**
 - 🌱 Learning: `Laravel`, `React Native`, `Kotlin`, and now diving into **Golang!**
 - 💬 Ask me about: `TypeScript`, `React`, `PHP`, `Mobile Dev`, `Go`
 - 💡 Goal: Become a **Fullstack + Mobile Dev + Backend Specialist**
@@ -56,10 +56,9 @@
 
 <p align="center">
   <a href="mailto:saktiselginov4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/sakti_xaf"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/saktixaf"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
 > 🧩 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
