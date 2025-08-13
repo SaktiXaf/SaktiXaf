@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/LfzjN5m.png" width="800" alt="Alya Banner" />
-</p>
-
 <h1 align="center">💖 Hi, I'm Sakti Selginov 💖</h1>
 
 <p align="center">
@@ -81,3 +77,6 @@
   <img src="https://media.tenor.com/4kJ1KoaVqHkAAAAC/alya-anime.gif" width="400" alt="Alya GIF" />
 </p>
 
+<p align="center">
+  <img src="https://gifs.alphacoders.com/222723.gif" width="400" alt="Alya looking shy and cute" />
+</p>
