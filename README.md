@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/SaktiXaf">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaktiXaf&theme=react-dark&bg_color=0D1117&hide_border=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaktiXaf&theme=tokyo-night&hide_border=true&area=true" />
   </a>
 </p>
 
