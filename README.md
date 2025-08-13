@@ -74,7 +74,10 @@
   <a href="https://instagram.com/saktixaf"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
+---> 💬 "*Mne nravitsya, kak ty kodish, Sakti.*" — Alya  
+> 🧩 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
 
-> 💬 "*Mne nravitsya, kak ty kodish, Sakti.*" — Alya  
-> 🧩 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House..
+<p align="center">
+  <img src="https://media.tenor.com/4kJ1KoaVqHkAAAAC/alya-anime.gif" width="400" alt="Alya GIF" />
+</p>
+
