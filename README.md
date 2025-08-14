@@ -1,18 +1,22 @@
-<h1 align="center">💖 Hi, I'm Sakti Selginov 💖</h1>
+<p align="center">
+  <img src="<<URL_GIF_ALYA>>" width="800" alt="Alya Animated Banner" />
+</p>
+
+<h1 align="center" style="color:#ff9ff3;">👋 Hi, I'm Sakti Selginov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E78AC3&center=true&vCenter=true&width=440&lines=🌸+Fullstack+%26+Mobile+Developer;💬+%E2%80%9CMne+nravitsya+kak+ty+kodish%2C+Sakti%E2%80%9D;🚀+Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9f7aea&center=true&vCenter=true&width=440&lines=🌌+Fullstack+%26+Mobile+Developer;💬+“Mne+nravitsya,+kak+ty+kodish,+Sakti”;🔥+TypeScript,+React+Native,+Kotlin,+Go" alt="Typing Text" />
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🔭 Working on: **Coffee Shop Website Project**
-- 🌱 Learning: `Laravel`, `React Native`, `Kotlin`, and **Golang**
-- 💬 Ask me about: `TypeScript`, `React`, `Go`, `Mobile Dev`
-- 🎯 Goal: Become a **Fullstack + Mobile + Backend Specialist**
-- 💡 Fun fact: I debug in dark mode to feel cooler 😎
+- 🔭 Currently working on: **Velora Tracking App**
+- 🌱 Learning & mastering: `React Native`, `Kotlin`, `Golang`, `Laravel`
+- 💬 Ask me about: `TypeScript`, `Go`, `Mobile Dev`, `Fullstack`
+-  Goal: Become a **Fullstack + Mobile + Backend Specialist**
+-  Fun fact: I code in dark mode to feel like Alya herself 😎
 
 ---
 
