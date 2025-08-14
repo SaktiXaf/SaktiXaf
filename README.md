@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="<<URL_GIF_ALYA>>" width="800" alt="Alya Animated Banner" />
+  <img src="https://i.imgur.com/xxx.gif" width="800" alt="Alya Animated Banner" />
 </p>
+
 
 <h1 align="center" style="color:#ff9ff3;">👋 Hi, I'm Sakti Selginov</h1>
 
