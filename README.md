@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/ixo1sUj.png" width="900" alt="Sakti Maximillian Selginov Banner"/>
-</p>
+
 
 <h1 align="center">✝️ Sakti Maximillian Selginov</h1>
 
