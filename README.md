@@ -16,7 +16,7 @@
 - 🌱 Learning & mastering: `React Native`, `Kotlin`, `Golang`, `Laravel`
 - 💬 Ask me about: `TypeScript`, `Go`, `Mobile Dev`, `Fullstack`
 - 🎯 Goal: Become a **Fullstack + Mobile + Backend Specialist**
-- ✝️ Faith: Catholic — trying to grow in discipline & purpose
+- ✝️ Faith: Catholic — growing in discipline & purpose
 
 ---
 
@@ -61,9 +61,10 @@
 ## ✝️ Favorite Verse
 
 > "Whatever you do, work at it with all your heart, as working for the Lord."  
-> — Colossians 3:23
-> "He heals the brokenhearted and binds up their wounds"
-> _ Mazmur 147:3
+> — Colossians 3:23  
+
+> "He heals the brokenhearted and binds up their wounds."  
+> — Psalm 147:3  
 
 ---
 
@@ -81,5 +82,5 @@
 ---
 
 <p align="center">
-  ✝️ <i>“Iesus est rex noster et deus noster</i>
+  ✝️ <i>Iesus est Rex noster et Deus noster</i>
 </p>
