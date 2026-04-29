@@ -62,6 +62,8 @@
 
 > "Whatever you do, work at it with all your heart, as working for the Lord."  
 > — Colossians 3:23
+> "He heals the brokenhearted and binds up their wounds"
+> _ Mazmur 147:3
 
 ---
 
@@ -79,5 +81,5 @@
 ---
 
 <p align="center">
-  ✝️ <i>“Ad Majorem Dei Gloriam” — For the Greater Glory of God</i>
+  ✝️ <i>“Iesus est rex noster et deus noster</i>
 </p>
