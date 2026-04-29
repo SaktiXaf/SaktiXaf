@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/LfTyGK3" width="900" alt="Sakti Maximillian Selginov Banner"/>
+  <img src="[https://imgur.com/a/LfTyGK3](https://imgur.com/a/LfTyGK3)" width="900" alt="Sakti Maximillian Selginov Banner"/>
 </p>
 
 <h1 align="center">✝️ Sakti Maximillian Selginov</h1>
